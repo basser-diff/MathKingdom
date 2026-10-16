@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mga sawi sa pag ibig\\MathKingdom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\views\\achievementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\views\\achievementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\views\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\views\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\views\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\views\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\views\\mappage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\views\\mappage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\views\\characterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\views\\characterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\views\\splashpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\views\\splashpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\viewmodels\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\viewmodels\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\data\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\data\\appdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\services\\audioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\services\\audioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\services\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\models\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\models\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\models\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\models\\progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|d:\\mga sawi sa pag ibig\\mathkingdom\\mathkingdom\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA0C9A0-EC8D-4669-BB5F-DD32FE65D1B1}|MathKingdom\\MathKingdom.csproj|solutionrelative:mathkingdom\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "MathKingdom\\Views\\SettingsPage.xaml",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\SettingsPage.xaml",
+              "RelativeToolTip": "MathKingdom\\Views\\SettingsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-02T11:48:47.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AchievementPage.xaml",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\AchievementPage.xaml",
+              "RelativeDocumentMoniker": "MathKingdom\\Views\\AchievementPage.xaml",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\AchievementPage.xaml",
+              "RelativeToolTip": "MathKingdom\\Views\\AchievementPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-02T11:48:26.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultPage.xaml",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\ResultPage.xaml",
+              "RelativeDocumentMoniker": "MathKingdom\\Views\\ResultPage.xaml",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\ResultPage.xaml",
+              "RelativeToolTip": "MathKingdom\\Views\\ResultPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-02T11:48:07.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamePage.xaml",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\GamePage.xaml",
+              "RelativeDocumentMoniker": "MathKingdom\\Views\\GamePage.xaml",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\GamePage.xaml",
+              "RelativeToolTip": "MathKingdom\\Views\\GamePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-02T11:47:52.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapPage.xaml",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\MapPage.xaml",
+              "RelativeDocumentMoniker": "MathKingdom\\Views\\MapPage.xaml",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\MapPage.xaml",
+              "RelativeToolTip": "MathKingdom\\Views\\MapPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-02T11:47:32.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterPage.xaml",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\CharacterPage.xaml",
+              "RelativeDocumentMoniker": "MathKingdom\\Views\\CharacterPage.xaml",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\CharacterPage.xaml",
+              "RelativeToolTip": "MathKingdom\\Views\\CharacterPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-02T11:47:16.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "MathKingdom\\Views\\HomePage.xaml",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\HomePage.xaml",
+              "RelativeToolTip": "MathKingdom\\Views\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-02T11:46:53.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SplashPage.xaml",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\SplashPage.xaml",
+              "RelativeDocumentMoniker": "MathKingdom\\Views\\SplashPage.xaml",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Views\\SplashPage.xaml",
+              "RelativeToolTip": "MathKingdom\\Views\\SplashPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-02T11:46:34.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultViewModel.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\ViewModels\\ResultViewModel.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\ViewModels\\ResultViewModel.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\ViewModels\\ResultViewModel.cs",
+              "RelativeToolTip": "MathKingdom\\ViewModels\\ResultViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:44:31.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameViewModel.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\ViewModels\\GameViewModel.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\ViewModels\\GameViewModel.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\ViewModels\\GameViewModel.cs",
+              "RelativeToolTip": "MathKingdom\\ViewModels\\GameViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:44:20.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "MathKingdom\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:44:09.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDatabase.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Data\\AppDatabase.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\Data\\AppDatabase.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Data\\AppDatabase.cs",
+              "RelativeToolTip": "MathKingdom\\Data\\AppDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:43:36.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AudioService.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Services\\AudioService.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\Services\\AudioService.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Services\\AudioService.cs",
+              "RelativeToolTip": "MathKingdom\\Services\\AudioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:43:10.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\Services\\GameService.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Services\\GameService.cs",
+              "RelativeToolTip": "MathKingdom\\Services\\GameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:43:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Services\\QuestionService.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\Services\\QuestionService.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Services\\QuestionService.cs",
+              "RelativeToolTip": "MathKingdom\\Services\\QuestionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:42:49.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Achievement.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Models\\Achievement.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\Models\\Achievement.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Models\\Achievement.cs",
+              "RelativeToolTip": "MathKingdom\\Models\\Achievement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:39:26.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Progress.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Models\\Progress.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\Models\\Progress.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Models\\Progress.cs",
+              "RelativeToolTip": "MathKingdom\\Models\\Progress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:39:10.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\Models\\Question.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Models\\Question.cs",
+              "RelativeToolTip": "MathKingdom\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:38:59.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "MathKingdom\\Models\\Player.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\MathKingdom\\MathKingdom\\Models\\Player.cs",
+              "RelativeToolTip": "MathKingdom\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:38:44.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

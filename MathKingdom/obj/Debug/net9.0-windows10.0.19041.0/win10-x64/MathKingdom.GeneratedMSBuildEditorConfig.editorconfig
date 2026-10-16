@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MathKingdom
+build_property.ProjectDir = D:\Mga sawi sa pag ibig\MathKingdom\MathKingdom\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/Views/AchievementPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.Views.AchievementPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AchievementPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AchievementPage.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/Views/CharacterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.Views.CharacterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CharacterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CharacterPage.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/Views/GamePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.Views.GamePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\GamePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\GamePage.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/Views/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.Views.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomePage.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/Views/MapPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.Views.MapPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MapPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MapPage.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/Views/ResultPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.Views.ResultPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ResultPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ResultPage.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/Views/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.Views.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SettingsPage.xaml
+
+[D:/Mga sawi sa pag ibig/MathKingdom/MathKingdom/Views/SplashPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MathKingdom.Views.SplashPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SplashPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SplashPage.xaml
